@@ -26,7 +26,7 @@ Python 3.7+
 pip (Python package manager)
 
 ## Usage
-Run the main script
+Run the main script:
 When prompted, enter your coding task in natural language.
 The system will process your request through multiple agents to refine, plan, implement, and optimize the solution.
 
